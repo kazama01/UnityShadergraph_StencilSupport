@@ -29,6 +29,7 @@ A tool that injects stencil buffer functionality into Unity ShaderGraph shaders.
 ## Note
 
 - Only tested on Unity 6 URP
+- Only tested using unlit shadergraph
 - Shader Graph package
 - I am not that good with coding so if you find anything that could be "fix" please give me a notice or you can create a pull request
 
