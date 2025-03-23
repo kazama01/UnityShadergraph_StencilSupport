@@ -24,11 +24,8 @@ A tool that injects stencil buffer functionality into Unity ShaderGraph shaders.
 - Works with "Allow Material Override" option
 - Clean UI for controlling stencil parameters
 
-## Requirements
+## Note
 
-- Unity 2021.3 or newer
+- Only tested on Unity 6 URP
 - Shader Graph package
-
-## License
-
-[MIT License](LICENSE.md)
+- I am not that good with coding so if you find anything that could be "fix" please give me a notice or you can create a pull request
